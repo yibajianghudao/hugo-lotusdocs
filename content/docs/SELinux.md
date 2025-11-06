@@ -3,8 +3,8 @@ weight = 100
 title = 'SELinux'
 description = ''
 icon = 'article'
-date = '{{date =YYYY-MM-DD}}T{{time =HH =mm =ss}}+00 =00'
-lastmod = '{{date =YYYY-MM-DD}}T{{time =HH =mm =ss}}+00 =00'
+date = {{date =YYYY-MM-DD}}T{{time =HH =mm =ss}}+00 =00
+lastmod = {{date =YYYY-MM-DD}}T{{time =HH =mm =ss}}+00 =00
 draft = false
 toc = true
 +++
