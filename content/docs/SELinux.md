@@ -1,13 +1,13 @@
----
-weight: "100"
++++
+weight: 100
 title: "SELinux"
-description:
-icon: article
-date: "2025-11-06T16:59:45+00:00"
-lastmod: "2025-11-06T16:59:45+00:00"
-draft: "false"
-toc: "true"
----
+description: ""
+icon: "article"
+date: "2025-11-06T17:07:56+00:00"
+lastmod: "2025-11-06T17:07:56+00:00"
+draft: false
+toc: true
++++
 
 ## 关闭selinux
 临时关闭
