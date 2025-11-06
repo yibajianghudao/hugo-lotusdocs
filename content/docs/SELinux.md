@@ -1,10 +1,10 @@
 +++
 weight: 100
-title: "SELinux"
-description: ""
-icon: "article"
-date: "2025-11-06T17:07:56+00:00"
-lastmod: "2025-11-06T17:07:56+00:00"
+title: 'SELinux'
+description: ''
+icon: 'article'
+date: '2025-11-06T17:12:00+00:00'
+lastmod: '2025-11-06T17:12:00+00:00'
 draft: false
 toc: true
 +++
