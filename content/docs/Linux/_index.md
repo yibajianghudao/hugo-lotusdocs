@@ -1,6 +1,6 @@
 +++
 weight = 100
-title = '_index'
+title = 'Linux'
 description = ''
 icon = 'article'
 date = 2025-11-10T09:58:32+08:00
