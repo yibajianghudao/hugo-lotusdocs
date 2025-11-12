@@ -1,13 +1,14 @@
-+++
-weight = 100
-title = 'hugo lotusdocs'
-description = ''
-icon = 'article'
-date = 2025-11-10T09:12:07+08:00
-lastmod = 2025-11-10T09:12:07+08:00
-draft = false
-toc = true
-+++
+---
+weight: 10
+title: Hugo_Lotusdocs
+description: 
+icon: menu_book
+lead: ""
+date: 2025-11-12T10:19:12+08:00
+lastmod: 2025-11-12T10:19:12+08:00
+draft: false
+images: []
+---
 
 打算把文章从hexo框架迁移到hugo框架,使用lotusdocs主题,本地使用Obsidian编辑
 ## 安装

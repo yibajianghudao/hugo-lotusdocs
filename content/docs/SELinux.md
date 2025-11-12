@@ -1,13 +1,14 @@
-+++
-weight = 100
-title = 'SELinux'
-description = ''
-icon = 'article'
-date = 2025-11-06T17:27:09+08:00
-lastmod = 2025-11-06T17:27:09+08:00
-draft = false
-toc = true
-+++
+---
+weight: 10
+title: SELinux
+description: 
+icon: menu_book
+lead: ""
+date: 2025-11-12T10:19:20+08:00
+lastmod: 2025-11-12T10:19:20+08:00
+draft: false
+images: []
+---
 
 ## 关闭selinux
 临时关闭

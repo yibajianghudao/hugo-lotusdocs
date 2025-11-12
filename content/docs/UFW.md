@@ -1,13 +1,14 @@
-+++
-weight = 100
-title = 'UFW'
-description = ''
-icon = 'article'
-date = 2025-11-10T09:28:40+08:00
-lastmod = 2025-11-10T09:28:40+08:00
-draft = false
-toc = true
-+++
+---
+weight: 10
+title: UFW
+description: 
+icon: menu_book
+lead: ""
+date: 2025-11-12T10:19:25+08:00
+lastmod: 2025-11-12T10:19:45+08:00
+draft: false
+images: []
+---
 
 UFW是Ubuntu自带的防火墙工具,基于`iptables`,命令更加简化,更容易配置和使用
 默认情况下`ufw`处于禁用状态(`inactive`)
