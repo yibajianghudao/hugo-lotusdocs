@@ -5,7 +5,7 @@ description:
 icon: menu_book
 lead: ""
 date: 2025-11-12T10:24:20+08:00
-lastmod: 2025-11-12T10:39:29+08:00
+lastmod: 2025-11-12T10:49:02+08:00
 draft: false
 images: []
 ---
@@ -35,9 +35,9 @@ hugo mod tidy
 #### 模板
 通过模板可以配置文章的`front matter`,包括:
 - `hugo`框架需要的配置,例如`weight`,`title`,`draft`
-- `lotusdocs`主题需要的配置,例如目录下的`_index.md`文件的`icon`,`title`(使用所在最后一级目录名)
+- `lotusdocs`主题需要的配置,例如目录下的`_index.md`文件的`icon`,`title`(使用所在最后一级目录名)  
 首先需要在 设置-核心插件 中禁用自带的模板插件,安装第三方`Templater`插件
-在`~/Code/obsidian/Template`新建模板文件:
+在`~/Code/obsidian/Template`新建模板文件:  
 index.md:
 ``` yaml
 ---
@@ -65,7 +65,7 @@ draft: false
 images: []
 ---
 ```
-在创建文章文件之后,在左侧的功能区点击`templater`,选择`post`即可
-在创建目录之后,首先创建一个命名为`_index`的文章,然后同样选择`index`模板即可,参考[Auto-Generated Menu](https://lotusdocs.dev/docs/quickstart/#auto-generated-menu)
+在创建文章文件之后,在左侧的功能区点击`templater`,选择`post`即可  
+在创建目录之后,首先创建一个命名为`_index`的文章,然后同样选择`index`模板即可,参考[Auto-Generated Menu](https://lotusdocs.dev/docs/quickstart/#auto-generated-menu)  
 ## 参考
-[My Obsidian + Hugo blogging setup](https://4rkal.com/posts/obsidianhugo/)
+[My Obsidian + Hugo blogging setup](https://4rkal.com/posts/obsidianhugo/)  
